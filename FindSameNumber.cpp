@@ -31,5 +31,7 @@ int main()
     }
     if (k == 0) cout << "No";
     else cout << k << "Yes";
+    // Leu leu
     return 0;
+    
 }
