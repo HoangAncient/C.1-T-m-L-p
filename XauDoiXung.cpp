@@ -22,7 +22,7 @@ int main()
     string c;
     cin >> c;
     if (daoNguocXau(c) == c) cout << "Yes";
-    else cout << "No";
+    else cout << "No";ahihi co y de conflict
 
     return 0;
 }
