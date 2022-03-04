@@ -12,7 +12,7 @@ int main() {
 	cin >> T;
 	try
 	{
-		if (T > 10 || T < 1)
+		if (T > 100 || T < 1)
 			throw T;
 		int A[T], B[T];
 		for (int i = 0; i < T; i++)
